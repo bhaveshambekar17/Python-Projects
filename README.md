@@ -1,7 +1,7 @@
 # Python-Projects
 HUMAN RESOURCE DATSET
 
-About Human resourse Analytics Datset Analyzed an HR dataset and discovered organizational insights using Numpy and Pandas
+About Human Resource Analytics Dataset Analyzed an HR dataset and discovered organizational insights using Numpy and Pandas
 
 Information about Human resource dataset
 
